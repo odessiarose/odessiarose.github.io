@@ -2,8 +2,6 @@
 
 Hi there!
 
-I am a Researcher specializing in machine learning and large language models (LLMs). I completed my Ph.D. at VVVVVV University. You can reach me at #link("mailto:xxx##xxx@gmail.com")[\<xxx\> at gmail.com].
+I am a Researcher specializing in AI and genomics. And, I'm also an impostor! You can reach me #link("mailto:odessia.rose+contacts@gmail.com")[\here].
 
-
-#link("https://scholar.google.com")[google scholar] / #link("https://github.com")[github] /  #link("https://x.com")[#to-mathml($XX$)] / #link("/xxx.pdf")[cv]
-
+Check out my blogs!!
