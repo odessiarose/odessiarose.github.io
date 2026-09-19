@@ -41,7 +41,7 @@ body {
   color: var(--main-color);
   line-height: 1.6;
   font-weight: 300;
-  font-size: 0.9rem;
+  font-size: 1.5rem;
   letter-spacing: 300;
   text-shadow: 0 0 0.5px rgba(57, 57, 57, 0.25);
 }
